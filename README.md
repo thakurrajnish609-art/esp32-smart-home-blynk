@@ -22,6 +22,7 @@ A complete IoT-based Smart Home Control system built using ESP32, 2-Channel Rela
 * **Micro-USB Power Cable**
 
 ---
+https://photos.app.goo.gl/PbTLg9bBtWUdBqKP8
 
 ## 🔌 Pin Configuration
 
